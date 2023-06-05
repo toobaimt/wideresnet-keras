@@ -1,5 +1,5 @@
 # Wide Residual Networks (WideResNets) in Keras
-tf.keras adaptation of [wideresnet-50-2](https://arxiv.org/pdf/1605.07146v1.pdf) for ImageNet. [1]
+tf.keras adaptation of [wideresnet-50-2](https://arxiv.org/pdf/1605.07146v1.pdf) for ImageNet.
 
 Tested on validation set of ImageNet, achieves 96.34% accuracy (vs 98% of the torch model, probably due to slighly different preprocessing)
 
