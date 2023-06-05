@@ -7,7 +7,7 @@ Tested on validation set of ImageNet, achieves 96.34% accuracy (vs 98% of the to
 Add the path to ImageNet folder in Line 114. Then run ```python WideResNet.py```
 
 # Acknowledgement
-Official [PyTorch implementation](https://github.com/xternalz/WideResNet-pytorch)
+Official [PyTorch implementation](https://github.com/szagoruyko/wide-residual-networks)
 
 Original paper:
 ```bibtex
